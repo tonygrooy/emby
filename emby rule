@@ -1,0 +1,24 @@
+# > emby
+# misakaf
+- DOMAIN,emby2.misakaf.org
+- DOMAIN,push-kr.misakaf.org
+- DOMAIN,emby.aca.best
+#odyssey+
+- DOMAIN-SUFFIX,odysseyplus.site
+#终点站
+- DOMAIN-SUFFIX,emby.wtf
+#jms
+- DOMAIN-SUFFIX,emby.pro
+#peach
+- DOMAIN-SUFFIX,embymv.tk
+- IP-CIDR, 193.123.232.141/24
+#cc
+- DOMAIN-SUFFIX,cc.ccemby.tk
+- DOMAIN-SUFFIXdl.carryz.net
+#mjj
+- DOMAIN-SUFFIX,mjjemby.org
+#垃圾
+- DOMAIN-SUFFIX,xmsl.org
+#NME
+- DOMAIN-SUFFIX,ohhhh.org
+
